@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="18008000">
+<Project Type="Project" LVVersion="16008000">
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -58,7 +58,6 @@
 				<Property Name="TgtF_productName" Type="Str">Lab2-InstructorHint-Calc-DisplayOnly</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{0D9C4E05-E073-406E-94FC-B6936DEF54C2}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">Application.exe</Property>
-				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Lab2-InstructorHint-Calc-DisplayOnly2" Type="EXE">
 				<Property Name="App_copyErrors" Type="Bool">true</Property>
@@ -97,7 +96,6 @@
 				<Property Name="TgtF_productName" Type="Str">Lab2-InstructorHint-Calc-DisplayOnly2</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{A1AD4FBB-969E-43B1-A1B1-FD9E784E744D}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">calculator.exe</Property>
-				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Lab2-InstructorHint-Calc-DisplayOnly3" Type="EXE">
 				<Property Name="App_copyErrors" Type="Bool">true</Property>
@@ -136,7 +134,6 @@
 				<Property Name="TgtF_productName" Type="Str">Lab2-InstructorHint-Calc-DisplayOnly3</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{AB572E04-D9FA-4F92-8385-AD053FA19B67}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">Calculator.exe</Property>
-				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 		</Item>
 	</Item>
